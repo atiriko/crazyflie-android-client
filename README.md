@@ -1,5 +1,7 @@
 # Crazyflie Android client
 
+I've forked this repository in order to change the way the application speaks with drone to make it autonomus.
+
 The Crazyflie Android client can be used to control the Crazyflie micro quadcopter from an Android device.
 Connection is established using either the Crazyradio USB dongle or over Bluetooth LE (Crazyflie 2.0 only).
 
